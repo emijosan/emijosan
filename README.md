@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emijosan
 - 👀 I’m interested in technology and AI
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on apply data science to improve the world solving real problems
+- 💞️ I’m looking to collaborate applying data science to improve the world solving real problems
 - 📫 emijosan@gmail.com
 
 <!---
